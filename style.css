@@ -34,7 +34,7 @@ caption, th, td {
 	text-align: left;
 	}
 /* remove possible quote marks (") from <q> & <blockquote> */
-blockquote:before, blockquote:after, q:before, q:after {
+blockquote:before, blockquote:after, q:before, q:after {});
 	content: "";
 	}
 blockquote, q {
