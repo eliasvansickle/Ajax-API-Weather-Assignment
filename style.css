@@ -7,7 +7,7 @@ dl, dt, dd, ol, ul, li, fieldset, form, label, legend {
 	font-weight: inherit;
 	font-style: inherit;
 	font-size: 100%;
-	outline: 1px dotted red;
+	/*outline: 1px dotted red;*/
 	padding: 0;
 	margin: 0;
 	border: 0;
@@ -48,22 +48,32 @@ blockquote, q {
  	min-height: 200px;
  }
  	div.search {
- 		background-color: red; 
+ 		/*background-color: red; */
  		min-height: 100px;
  		text-align: center;
+ 		padding-top: 30px;
+ 		color:white;
  	}
  	div.place {
- 		background-color: green;
+ 		/*background-color: green;*/
  		min-height: 100px;
  	}
  		div.place h1 {
  			text-align: center;
+ 			color:white;
+ 			font-size: 70px;
+ 			font-weight: bolder;
  		}
  	div.temp {
- 		background-color: yellow;
+ 		/*background-color: yellow;*/
  		min-height: 100px;
  	}
- 		div.temp 
+ 		div.temp p {
+			text-align: center;
+ 			color:white;
+ 			font-size: 40px;
+ 			font-weight: bold;
+ 		}
 
 
 
