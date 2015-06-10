@@ -56,10 +56,14 @@ blockquote, q {
  		background-color: green;
  		min-height: 100px;
  	}
+ 		div.place h1 {
+ 			text-align: center;
+ 		}
  	div.temp {
  		background-color: yellow;
  		min-height: 100px;
  	}
+ 		div.temp 
 
 
 
